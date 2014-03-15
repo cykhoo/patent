@@ -1,0 +1,3 @@
+module Patent
+  VERSION = "0.0.1"
+end
